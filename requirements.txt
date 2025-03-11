@@ -1,0 +1,8 @@
+streamlit
+plotly
+pandas
+anthropic
+requests
+numpy
+schedule
+python-dotenv
